@@ -1,0 +1,49 @@
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\source\repos\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.GenerateResource.cache
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RPG.resources
+C:\Users\admin1\source\repos\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.Properties.Resources.resources
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\source\repos\Final Project\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.RPG.resources
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.Properties.Resources.resources
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csproj.GenerateResource.cache
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\source\repos\Final Project\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csproj.AssemblyReference.cache
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.RPG.resources
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.Properties.Resources.resources
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csproj.GenerateResource.cache
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\admin1\Desktop\FOR GITHUB\Final Project\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
